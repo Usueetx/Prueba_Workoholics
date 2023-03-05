@@ -4,10 +4,13 @@
 
 <h3>Tecnologías usadas</h3>
 
-<p> HTML | CSS | REACT.JS </p>
+<p> HTML![css](https://user-images.githubusercontent.com/114754279/222980984-b68671d7-7788-4520-88fd-852b1d63b8bc.svg)
+ | CSS![html](https://user-images.githubusercontent.com/114754279/222980981-584e1c3b-8295-4b39-bc61-9338442870e1.svg)
+ | REACT.JS![react](https://user-images.githubusercontent.com/114754279/222980961-9407eb47-b7a8-47f1-83be-bc12304be393.svg)
+ </p>
 
-![2023-03-05](https://user-images.githubusercontent.com/114754279/222980870-978e9ee5-71db-4dca-9201-8518f87dbb1f.png)
 ![2023-03-05 (1)](https://user-images.githubusercontent.com/114754279/222980874-d4c45be5-d99d-4afd-96c2-0b80657caeb0.png)
+![2023-03-05](https://user-images.githubusercontent.com/114754279/222980870-978e9ee5-71db-4dca-9201-8518f87dbb1f.png)
 
 <h5>Gracias por la oportunidad</h5>
 <p>Usúe Etxeberría Ramos</p>
