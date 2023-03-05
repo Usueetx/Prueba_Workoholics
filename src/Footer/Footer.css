@@ -1,0 +1,235 @@
+.line{
+position: absolute;
+width: 508px;
+height: 24px;
+left: 627px;
+top: 2913px;
+}
+
+.terms{
+position: absolute;
+width: 471px;
+height: 24px;
+left: 664px;
+top: 2913px;
+    
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 160%;
+/* identical to box height, or 24px */
+color: #FFFFFF;
+}
+
+.tic{
+box-sizing: border-box;
+position: absolute;
+width: 17px;
+height: 17px;
+left: 627px;
+top: 2913px;
+/* Blanco */
+border: 0.5px solid #FFFFFF;
+
+}
+
+.h3{
+position: absolute;
+width: 723px;
+height: 94px;
+left: 627px;
+top: 2653px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 135%;
+/* or 47px */
+/* Blanco */
+color: #FFFFFF;
+}
+
+.contact{
+position: absolute;
+width: 248px;
+height: 72px;
+left: 88px;
+top: 2660px;
+color: #FFFFFF;
+}
+
+.rect{
+    position: absolute;
+    width: 1520px;
+    height: 468px;
+    left: 0px;
+    top: 2566px;
+/* Negro Worköholics */
+background: #212222;
+}
+
+.mail{
+position: absolute;
+width: 60px;
+height: 20px;
+left: 627px;
+top: 2845px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 101.5%;
+/* or 20px */
+/* Blanco */
+color: #FFFFFF;
+opacity: 0.5;
+}
+
+hr2{
+position: absolute;
+width: 723px;
+height: 0px;
+left: 627px;
+top: 2887px;
+border: 1px solid #FFFFFF;
+}
+
+.submit{
+    position: absolute;
+    width: 66px;
+    height: 32px;
+    left: 1238px;
+    top: 2907px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* identical to box height, or 32px */
+    /* Blanco */
+    color: #FFFFFF;
+}
+
+.arrow{
+position: absolute;
+width: 27.3px;
+height: 21px;
+left: 1320px;
+top: 2917px;
+color: #FFFFFF;
+}
+
+@media screen and (min-width: 375px) and (min-height: 2588px) {
+.rect{
+position: absolute;
+width: 375px;
+height: 520px;
+left: 0px;
+top: 2068px;
+/* Negro Worköholics */
+background: #212222; }
+
+.h3{
+position: absolute;
+width: 360px;
+height: 68px;
+left: 15px;
+top: 2110px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 130%;
+/* or 34px *
+/* Blanco */
+color: #FFFFFF;
+}
+
+.contact{
+position: absolute;
+width: 178px;
+height: 55px;
+left: 14px;
+top: 2483px;
+}
+
+.mail{
+position: absolute;
+width: 48px;
+height: 16px;
+left: 15px;
+top: 2258px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 101.5%;
+/* or 16px */
+/* Blanco */
+color: #FFFFFF;
+opacity: 0.5;
+}
+
+hr2{
+position: absolute;
+width: 345px;
+height: 0px;
+left: 16px;
+top: 2288px;
+border: 1px solid #FFFFFF;
+}
+
+
+.terms{
+position: absolute;
+width: 250px;
+height: 42px;
+left: 43px;
+top: 2302px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+/* Blanco */
+color: #FFFFFF;
+}
+
+.tic{
+box-sizing: border-box;
+position: absolute;
+width: 13px;
+height: 13px;
+left: 17px;
+top: 2306px;
+/* Blanco */
+border: 0.5px solid #FFFFFF;
+}
+
+.submit{
+position: absolute;
+width: 60px;
+height: 29px;
+left: 16px;
+top: 2373px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+/* identical to box height, or 29px */
+/* Blanco */
+color: #FFFFFF;
+}
+
+.arrow{
+position: absolute;
+width: 22.1px;
+height: 17px;
+left: 85px;
+top: 2381px;
+}
+
+}

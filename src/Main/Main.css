@@ -1,0 +1,616 @@
+hr{
+    margin: auto 20px;
+    border: 1.5px solid rgb(150, 150, 150);
+    position: absolute;
+    width: 1260px;
+    height: 0px;
+    left: 90px;
+    top: 392px;
+}
+
+hr1{
+    margin: auto 20px;
+    border: 1.5px solid rgb(150, 150, 150);
+    position: absolute;
+    width: 1260px;
+    height: 0px;
+    left: 90px;
+    top: 656px;
+}
+
+.ipsum{
+position: absolute;
+width: 658px;
+height: 304px;
+left: 503px;
+top: 372px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 217px;
+line-height: 140%;
+z-index: 3 ;
+/* identical to box height, or 304px */
+/* Negro Worköholics */
+color: #212222;
+
+}
+
+.lorem{
+position: absolute;
+width: 730px;
+height: 304px;
+left: 184px;
+top: 108px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 217px;
+line-height: 140%;
+z-index: 1 ;
+/* identical to box height, or 304px */
+/* Negro Worköholics */
+color: #212222;
+}
+
+.dolor{
+position: absolute;
+width: 739px;
+height: 304px;
+left: 204px;
+top: 640px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 217px;
+line-height: 140%;
+/* identical to box height, or 304px */
+/* Negro Worköholics */
+color: #212222;
+}
+
+.mug{
+position: absolute;
+width: 645px;
+height: 601px;
+left: 684px;
+top: 200px;
+z-index: 2 ;
+}
+
+.text{
+position: absolute;
+width: 830px;
+height: 133px;
+left: 520px;
+top: 1063px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 137%;
+/* or 44px */
+color: #212222;
+}
+
+/* .one{
+position: absolute;
+width: 617px;
+height: 565.04px;
+left: 88px;
+top: 1329px;
+
+} */
+
+.tshirt{
+    position: absolute;
+    width: 442.11px;
+    height: 503.46px;
+    left: 204.78px;
+    top: 1396.48px;
+    transform: matrix(-0.99, -0.15, -0.15, 0.99, 0, 0);
+}
+
+.h3t{
+position: absolute;
+width: 294px;
+height: 118px;
+left: 88px;
+top: 1488px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 89.311px;
+line-height: 132%;
+/* identical to box height, or 118px */
+/* Negro Worköholics */
+color: #212222;
+}
+
+.ttext{
+position: absolute;
+width: 318px;
+height: 44px;
+left: 90px;
+top: 1600px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 137%;
+/* or 22px */
+/* Negro Worköholics */
+color: #212222;
+}
+
+.r1{
+position: absolute;
+width: 45.8px;
+height: 14px;
+left: 90px;
+top: 1692px;
+/* Negro Worköholics */
+background: #212222;
+}
+
+.r2{
+position: absolute;
+width: 45.8px;
+height: 14px;
+left: 150.8px;
+top: 1692px;
+/* Rosa Worköholics */
+background: #FB088C;
+}
+
+.buyt{
+position: absolute;
+width: 35px;
+height: 20px;
+left: 619px;
+top: 1691px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 101.5%;
+/* or 20px */
+/* Negro Worköholics */
+color: #212222;
+}
+
+.arrow1{
+position: absolute;
+width: 31px;
+height: 23.85px;
+left: 672px;
+top: 1690px;
+}
+
+hr3{
+position: absolute;
+width: 615px;
+height: 0px;
+left: 90px;
+top: 1738px;
+/* Negro Worköholics */
+border: 0.5px solid #212222;
+}
+
+/* .two{
+position: absolute;
+width: 621px;
+height: 510px;
+left: 729px;
+top: 1897px;
+
+} */
+
+.bottle{
+position: absolute;
+width: 257px;
+height: 510px;
+left: 935px;
+top: 1897px;
+}
+
+.h3b{
+position: absolute;
+width: 261px;
+height: 118px;
+left: 729px;
+top: 2035px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 89.311px;
+line-height: 132%;
+/* identical to box height, or 118px */
+/* Negro Worköholics */
+color: #212222;
+}
+
+.tttext{
+position: absolute;
+width: 318px;
+height: 44px;
+left: 734px;
+top: 2147px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 137%;
+/* or 22px */
+/* Negro Worköholics */
+color: #212222;
+}
+
+.r3{
+position: absolute;
+width: 45.8px;
+height: 14px;
+left: 735px;
+top: 2239px;
+background: #FB088C;
+}
+
+.buyb{
+position: absolute;
+width: 35px;
+height: 20px;
+left: 1266px;
+top: 2240px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 101.5%;
+/* or 20px */
+/* Negro Worköholics */
+color: #212222;
+}
+
+.arrow2{
+position: absolute;
+width: 31px;
+height: 23.85px;
+left: 1319px;
+top: 2239px;
+}
+
+hr4{
+    position: absolute;
+    width: 612px;
+    height: 0px;
+    left: 735px;
+    top: 2285px;
+    /* Negro Worköholics */
+    border: 0.5px solid #212222;
+}
+
+.contacts{
+position: absolute;
+width: 123px;
+height: 32px;
+left: 1413px;
+top: 737px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+/* Negro Worköholics */
+color: #212222;
+transform: rotate(90deg);
+}
+
+.pinkl{
+position: absolute;
+width: 44px;
+height: 0px;
+left: 1450px;
+top: 655px;
+/* Rosa Worköholics */
+border: 2px solid #FB088C;
+transform: rotate(90deg);
+}
+
+@media screen and (min-width: 375px) and (min-height: 2588px) {
+    hr{
+    position: absolute;
+    width: 345px;
+    height: 0px;
+    left: 15px;
+    top: 298.95px;
+    /* Negro Worköholics */
+    border: 0.5px solid #212222;
+    }
+    
+    hr1{
+    position: absolute;
+    width: 345px;
+    height: 0px;
+    left: 15px;
+    top: 487.95px; 
+    /* Negro Worköholics */    
+    border: 0.5px solid #212222;
+    }
+    
+    .ipsum{
+    position: absolute;
+    width: 358px;
+    height: 165px;
+    left: -101px;
+    top: 311.95px; 
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 118px;
+    line-height: 140%;
+    /* or 165px */
+    /* Negro Worköholics */
+    color: #212222;
+    z-index: 3 ;
+    
+    }
+    
+    .lorem{
+    position: absolute;
+    width: 349px;
+    height: 167.9px;
+    left: 70px;
+    top: 118px;       
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 118px;
+    line-height: 140%;
+    /* or 165px */ 
+    /* Negro Worköholics */    
+    color: #212222;
+    z-index: 1 ;
+    }
+    
+    .dolor{
+    position: absolute;
+    width: 627px;
+    height: 233px;
+    left: 110px;
+    top: 476.95px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 118px;
+    line-height: 140%;
+    /* or 165px */
+    /* Negro Worköholics */
+    color: #212222;
+    }
+    
+    .mug{
+    position: absolute;
+    width: 356.27px;
+    height: 331px;
+    left: 84.36px;
+    top: 214.95px;
+    z-index: 2 ;
+    }
+    
+    .text{
+    position: absolute;
+    width: 343px;
+    height: 198px;
+    left: 16px;
+    top: 756px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 137%;
+    /* or 33px */
+    /* Negro Worköholics */
+    color: #212222;
+    }
+
+
+
+    .tshirt{
+    position: absolute;
+    width: 320.31px;
+    height: 365.24px;
+    left: 109.1px;
+    top: 1120.6px;
+    transform: matrix(-0.98, -0.21, -0.21, 0.98, 0, 0);
+    }
+    
+    .h3t{
+    position: absolute;
+    width: 349px;
+    height: 66px;
+    left: 13px;
+    top: 1149px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 132%;
+    /* identical to box height, or 66px */
+    /* Negro Worköholics */ 
+    color: #212222;
+    }
+    
+    .ttext{
+    position: absolute;
+    width: 180px;
+    height: 57px;
+    left: 14px;
+    top: 1220px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137%;
+    /* or 19px */
+    /* Negro Worköholics */
+    color: #212222;
+    }
+    
+    .r1{
+    position: absolute;
+    width: 31.71px;
+    height: 14px;
+    left: 15px;
+    top: 1305px; 
+    /* Negro Worköholics */ 
+    background: #212222;
+    }
+    
+    .r2{
+    position: absolute;
+    width: 31.71px;
+    height: 14px;
+    left: 61.71px;
+    top: 1305px;
+    /* Rosa Worköholics */
+    background: #FB088C;
+    }
+    
+    .buyt{
+    position: absolute;
+    width: 32px;
+    height: 18px;
+    left: 14px;
+    top: 1372px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.5%;
+    /* or 18px */
+    /* Negro Worköholics */
+    color: #212222;
+    }
+    
+    .arrow1{
+    position: absolute;
+    width: 22.71px;
+    height: 17.47px;
+    left: 66px;
+    top: 1375.39px;
+    }
+    
+    hr3{
+    position: absolute;
+    width: 345px;
+    height: 0px;
+    left: 15px;
+    top: 1416px; 
+    /* Negro Worköholics */
+    border: 0.5px solid #212222;
+    }
+
+
+
+    .bottle{
+        position: absolute;
+        width: 182px;
+        height: 362px;
+        left: 173px;
+        top: 1567px;        
+        }
+        
+        .h3b{
+        position: absolute;
+        width: 349px;
+        height: 66px;
+        left: 12px;
+        top: 1632px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 50px;
+        line-height: 132%;
+        /* identical to box height, or 66px */
+        /* Negro Worköholics */
+        color: #212222;
+        }
+        
+        .tttext{
+        position: absolute;
+        width: 180px;
+        height: 57px;
+        left: 14px;
+        top: 1703px; 
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 137%;
+        /* or 19px */
+        /* Negro Worköholics */
+        color: #212222;
+        }
+        
+        .r3{
+        position: absolute;
+        width: 31.71px;
+        height: 14px;
+        left: 15px;
+        top: 1788px;
+        background: #FB279A;
+        }
+        
+        .buyb{
+        position: absolute;
+        width: 32px;
+        height: 18px;
+        left: 14px;
+        top: 1855px;    
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 101.5%;
+        /* or 18px */        
+        /* Negro Worköholics */
+        color: #212222;
+        }
+        
+        .arrow2{
+        position: absolute;
+        width: 22.71px;
+        height: 17.47px;
+        left: 66px;
+        top: 1858.39px;
+        }
+        
+        hr4{
+        position: absolute;
+        width: 345px;
+        height: 0px;
+        left: 15px;
+        top: 1899px; 
+        /* Negro Worköholics */
+        border: 0.5px solid #212222;
+        }
+
+        .contacts{
+            display: none;
+            }
+            
+            .pinkl{
+                display: none;
+            }
+
+}

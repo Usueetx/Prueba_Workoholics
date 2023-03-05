@@ -1,0 +1,91 @@
+.logo{
+position: absolute;
+width: 185px;
+height: 23px;
+left: 90px;
+top: 45px;
+}
+
+.menu1{
+position: absolute;
+width: 57px;
+height: 24px;
+left: 1069px;
+top: 44px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 132%;
+/* identical to box height, or 24px */
+
+
+/* Negro Worköholics */
+
+color: #212222;
+}
+
+.menu2{
+    
+position: absolute;
+width: 62px;
+height: 24px;
+left: 1176px;
+top: 44px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 132%;
+/* identical to box height, or 24px */
+
+
+/* Negro Worköholics */
+
+color: #212222;
+}
+
+
+.menu3{
+    position: absolute;
+width: 62px;
+height: 24px;
+left: 1288px;
+top: 44px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 132%;
+/* identical to box height, or 24px */
+
+text-align: right;
+
+/* Negro Worköholics */
+
+color: #212222;
+}
+
+
+@media screen and (min-width: 375px) and (min-height: 2588px) {
+.logo{
+position: absolute;
+width: 149px;
+height: 19px;
+left: 196px;
+top: 21px;
+}
+
+#basic-navbar-nav{
+position: absolute;
+width: 32px;
+height: 11px;
+left: 313px;
+top: 78px;
+
+}
+
+}
